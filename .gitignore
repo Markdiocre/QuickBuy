@@ -1,0 +1,30 @@
+# Logs
+quickbuy-backend/logs
+quickbuy-backend/*.log
+quickbuy-backend/npm-debug.log*
+quickbuy-backend/yarn-debug.log*
+quickbuy-backend/yarn-error.log*
+quickbuy-backend/pnpm-debug.log*
+quickbuy-backend/lerna-debug.log*
+
+quickbuy-backend/node_modules
+quickbuy-backend/.DS_Store
+quickbuy-backend/dist
+quickbuy-backend/dist-ssr
+quickbuy-backend/coverage
+quickbuy-backend/*.local
+
+quickbuy-backend/cypress/videos/
+quickbuy-backend/cypress/screenshots/
+
+# Editor directories and files
+quickbuy-backend/.vscode/*
+quickbuy-backend/!.vscode/extensions.json
+quickbuy-backend/.idea
+quickbuy-backend/*.suo
+quickbuy-backend/*.ntvs*
+quickbuy-backend/*.njsproj
+quickbuy-backend/*.sln
+quickbuy-backend/*.sw?
+
+quickbuy-backend/*.tsbuildinfo
